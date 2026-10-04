@@ -1,0 +1,13 @@
+{
+  "name": "pdf-url-bot",
+  "version": "1.0.0",
+  "description": "Daily bot that collects PDF URLs from Next Toppers courses and appends them to a GitHub repo (append-only).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
